@@ -1,0 +1,27 @@
+2021-07-08T19:30:29+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in C:\wamp64\www\TestWordpress\wp-content\plugins\staticweb-io\src\AdminBar.php:129
+Stack trace:
+#0 C:\wamp64\www\TestWordpress\wp-includes\class-wp-hook.php(292): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 C:\wamp64\www\TestWordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\TestWordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\TestWordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in C:\wamp64\www\TestWordpress\wp-content\plugins\staticweb-io\src\AdminBar.php on line 129
+
+2021-07-08T19:31:29+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in C:\wamp64\www\TestWordpress\wp-content\plugins\staticweb-io\src\AdminBar.php:129
+Stack trace:
+#0 C:\wamp64\www\TestWordpress\wp-includes\class-wp-hook.php(292): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 C:\wamp64\www\TestWordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\TestWordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\TestWordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in C:\wamp64\www\TestWordpress\wp-content\plugins\staticweb-io\src\AdminBar.php on line 129
+
+2021-07-08T19:33:30+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in C:\wamp64\www\TestWordpress\wp-content\plugins\staticweb-io\src\AdminBar.php:129
+Stack trace:
+#0 C:\wamp64\www\TestWordpress\wp-includes\class-wp-hook.php(292): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 C:\wamp64\www\TestWordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\TestWordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\TestWordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in C:\wamp64\www\TestWordpress\wp-content\plugins\staticweb-io\src\AdminBar.php on line 129
+

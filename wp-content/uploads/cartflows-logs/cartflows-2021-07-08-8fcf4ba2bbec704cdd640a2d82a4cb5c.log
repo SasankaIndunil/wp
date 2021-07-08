@@ -1,0 +1,16 @@
+2021-07-08T18:17:43+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2021-07-08T18:17:43+00:00 INFO Only for thank you page
+2021-07-08T18:17:43+00:00 INFO Checkout ID : 712
+2021-07-08T18:17:43+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
+2021-07-08T18:22:34+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2021-07-08T18:22:34+00:00 INFO Only for thank you page
+2021-07-08T18:22:34+00:00 INFO Checkout ID : 712
+2021-07-08T18:22:34+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
+2021-07-08T19:02:57+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2021-07-08T19:02:57+00:00 INFO Only for thank you page
+2021-07-08T19:02:57+00:00 INFO Checkout ID : 800
+2021-07-08T19:02:57+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
+2021-07-08T19:07:40+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2021-07-08T19:07:40+00:00 INFO Only for thank you page
+2021-07-08T19:07:40+00:00 INFO Checkout ID : 800
+2021-07-08T19:07:40+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
